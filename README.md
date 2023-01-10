@@ -1,11 +1,12 @@
 ### Diagram
 
-[diagram](somelink here)
+![diagram](https://raw.githubusercontent.com/ClearlyKyle/TinyDSB/master/diagram.png)
 
 ### Components
 
-- Digispark Attiny 85
+- Digispark Attiny85
 - DS18B20
+- SSD1306
 - 4.7k&Omega; resistor
 
 ### Required libraries for examples
